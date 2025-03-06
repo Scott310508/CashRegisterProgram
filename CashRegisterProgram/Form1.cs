@@ -193,7 +193,7 @@ namespace CashRegisterProgram
 
 
             Thread.Sleep(500);
-            receiptbox.Text += "Email contact: scottjautoparts@yahoo.com\n";
+            receiptbox.Text += "Email contact: scottjautoparts@yahoo.com\n";  
             receiptbox.Refresh();
 
             Thread.Sleep(500);
